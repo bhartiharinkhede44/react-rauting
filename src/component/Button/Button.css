@@ -1,0 +1,11 @@
+.btn{
+    padding: 10px;
+    color: rgb(237, 212, 212);
+    background-color: rgb(23, 22, 22);
+    border: solid 2px ;
+    border-radius: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 5px;
+
+
+}

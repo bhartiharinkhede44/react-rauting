@@ -1,6 +1,9 @@
 .navbar{
-    background-color: aqua;
-   color: black;
-    padding: 10px;
-
+    width: 100vw;
+    height: 10vh;
+    background-color: #004a4d;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
 }
